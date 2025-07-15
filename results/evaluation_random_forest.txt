@@ -1,0 +1,13 @@
+
+Random Forest Evaluation Metrics:
+
+Accuracy      : 0.8467
+Precision     : 0.4000
+Recall        : 0.0155 (Sensitivity)
+Specificity   : 0.9958
+F1 Score      : 0.0299
+ROC AUC Score : 0.6533
+
+Confusion Matrix:
+[[716, 3],
+ [127, 2]]
